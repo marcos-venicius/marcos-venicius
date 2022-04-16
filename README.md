@@ -8,4 +8,5 @@
 </p>
 <p align='center'>For enquiries, reach out marcosdevelopment.business@gmail.com or over on <a href="https://www.instagram.com/devone.business/">Instagram</a>.</p>
 
+<h3 align="center">Check our <a target="_blank" href="https://css-tips.netlify.app/">CSS-TIPS</a> web site consume or contribute with the project</h3>
 <h1 align='center'><i>projects into reality</i></h1>
