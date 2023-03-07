@@ -8,8 +8,7 @@
 </p>
 <p align='center'>I'm a software developer at Brazil working with Android using React Native, Backend using C# and on the Web using React & Next<br />and i love what i do! :heart_eyes:</p>
 
-<p align="center">i'm current studying about micro services with java, learning spring boot, docker, kubernetes, apache kafka, ...</p>
-
+<p align="center">i'm current studying about micro services with CSharp, learning kubernetes, apache kafka, ...</p>
 
 <h3 align="center">Check out my favorite TODO app, the <a target="_blank" href="https://devone.dev.br/">Todo List - DevOne</a></h3>
 <h1 align='center'><i>projects into reality</i></h1>
