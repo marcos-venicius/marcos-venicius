@@ -10,5 +10,5 @@
 
 <p align="center">i'm current studying about micro services with CSharp, learning kubernetes, apache kafka, ...</p>
 
-<h3 align="center">Check out my favorite TODO app, the <a target="_blank" href="https://devone.dev.br/">Todo List - DevOne</a></h3>
+<h3 align="center">Check out <a target="_blank" href="https://marcosvenicius.com.br">my website</a></h3>
 <h1 align='center'><i>projects into reality</i></h1>
