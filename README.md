@@ -6,9 +6,20 @@
 <p align='center'>
   I am <strong>Marcos Venicius</strong>.
 </p>
-<p align='center'>I'm a software developer at Brazil working with Android using React Native, Backend using C# and on the Web using React & Next<br />and i love what i do! :heart_eyes:</p>
+<p align='center'>I have about 5 years of experience as a software engineer working with many technologies like: C#, NodeJS, NextJS, React Native, Ruby on Rails, ...</p>
 
-<p align="center">i'm current studying about micro services with CSharp, learning kubernetes, apache kafka, ...</p>
+<p align="center">i'm currently working at <a href="https://cadmus.com.br">Cadmus</a> as full stack developer and i love it!</p>
 
-<h3 align="center">Check out <a target="_blank" href="https://marcosvenicius.com.br">my website</a></h3>
-<h1 align='center'><i>projects into reality</i></h1>
+<h3 align="center">Check out <a target="_blank" href="https://marcosvenicius.com.br">my website</a> to learn more!</h3>
+
+<br />
+<br />
+
+### Useful repositories
+
+* [Daily manager](https://github.com/marcos-venicius/daily-manager)
+* [NodeJS Project Template](https://github.com/marcos-venicius/devone-node-template)
+* [.NET Api Clean Architecture + CQRS Template](https://github.com/marcos-venicius/clean.architecture.template)
+* [Command Shrink](https://github.com/marcos-venicius/command-shrink)
+* [GRPC Todo List in .NET](https://github.com/marcos-venicius/grpc-todo-list-cli)
+* [FUU (Frequently Used Utilities)](https://github.com/marcos-venicius/FUU)
