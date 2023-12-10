@@ -17,6 +17,7 @@
 
 ### Useful repositories
 
+* [Machine Learning Framework in C](https://github.com/marcos-venicius/ML-hello-world/)
 * [Daily manager](https://github.com/marcos-venicius/daily-manager)
 * [NodeJS Project Template](https://github.com/marcos-venicius/devone-node-template)
 * [.NET Api Clean Architecture + CQRS Template](https://github.com/marcos-venicius/clean.architecture.template)
