@@ -17,6 +17,7 @@
 
 ### Useful repositories
 
+* [SMLF (Small Machine Learning Framework) only with python and math](https://github.com/marcos-venicius/smlf)
 * [Machine Learning Framework in C](https://github.com/marcos-venicius/ML-hello-world/)
 * [Daily manager](https://github.com/marcos-venicius/daily-manager)
 * [NodeJS Project Template](https://github.com/marcos-venicius/devone-node-template)
