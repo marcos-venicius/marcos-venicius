@@ -8,7 +8,7 @@
 </p>
 <p align='center'>I have about 5 years of experience as a software engineer working with many technologies like: Python, C#, NodeJS, NextJS, React Native, Ruby on Rails, ...</p>
 
-<p align="center">i'm currently working at <a href="https://cadmus.com.br">Cadmus</a> as software engineer and i love it!</p>
+<p align="center">i'm currently working at <a href="https://cadmus.com.br">C.I.A - Cadmus</a> as software engineer and i love it!</p>
 
 <h3 align="center">Check out <a target="_blank" href="https://marcosvenicius.com.br">my website</a> to learn more!</h3>
 
