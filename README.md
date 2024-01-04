@@ -21,6 +21,7 @@
 * [Machine Learning Framework in C](https://github.com/marcos-venicius/ML-hello-world/)
 * [Daily manager](https://github.com/marcos-venicius/daily-manager)
 * [NodeJS Project Template](https://github.com/marcos-venicius/devone-node-template)
+* [NextJS Project Template](https://github.com/marcos-venicius/devone-nextjs-template)
 * [.NET Api Clean Architecture + CQRS Template](https://github.com/marcos-venicius/clean.architecture.template)
 * [Command Shrink](https://github.com/marcos-venicius/command-shrink)
 * [GRPC Todo List in .NET](https://github.com/marcos-venicius/grpc-todo-list-cli)
