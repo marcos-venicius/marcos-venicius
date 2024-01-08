@@ -1,6 +1,3 @@
-<div align='center'>
-  <img src="https://user-images.githubusercontent.com/94018427/199314128-1aadb2d2-d549-4924-8802-38dea47d187a.png" />
-</div>
 
 <h1 align='center'>Hi! :wave:</h1>
 <p align='center'>
