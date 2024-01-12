@@ -3,6 +3,11 @@
 <p align='center'>
   I am <strong>Marcos Venicius</strong>.
 </p>
+
+<div align="center">
+  <img src="https://github.com/marcos-venicius/marcos-venicius/assets/94018427/fd42119a-9625-45fa-9d76-211ba60e4581" />
+</div>
+
 <p align='center'>I have about 5 years of experience as a software engineer working with many technologies like: Python, C#, NodeJS, NextJS, React Native, Ruby on Rails, ...</p>
 
 <p align="center">i'm currently working at <a href="https://cadmus.com.br">C.I.A - Cadmus</a> as software engineer and i love it!</p>
