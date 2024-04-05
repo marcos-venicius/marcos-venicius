@@ -12,16 +12,15 @@
 
 <p align="center">i'm currently working at <a href="https://cadmus.com.br">C.I.A - Cadmus</a> as software engineer and i love it!</p>
 
-<h3 align="center">Check out <a target="_blank" href="https://marcosvenicius.com.br">my website</a> to learn more!</h3>
-
 <br />
 <br />
 
 ### Useful repositories
 
+* [Hacking Tools](https://github.com/marcos-venicius/hacking-tools)
 * [SMLF (Small Machine Learning Framework) only with python and math](https://github.com/marcos-venicius/smlf)
 * [Machine Learning Framework in C](https://github.com/marcos-venicius/ML-hello-world/)
-* [Daily manager](https://github.com/marcos-venicius/daily-manager)
+* [Vite Project Template](https://github.com/marcos-venicius/devone-vite-template)
 * [NodeJS Project Template](https://github.com/marcos-venicius/devone-node-template)
 * [NextJS Project Template](https://github.com/marcos-venicius/devone-nextjs-template)
 * [.NET Api Clean Architecture + CQRS Template](https://github.com/marcos-venicius/clean.architecture.template)
