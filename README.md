@@ -1,22 +1,22 @@
 
-<h1 align='center'>Hi! :wave:</h1>
-<p align='center'>
-  I am <strong>Marcos Venicius</strong>.
-</p>
+<h2>Hi <img width="25" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" />, I'm Marcos</h2>
 
-<div align="center">
-  <img src="https://github.com/marcos-venicius/marcos-venicius/assets/94018427/fd42119a-9625-45fa-9d76-211ba60e4581" />
-</div>
+_A passionate skilled software engineer_.
 
-<p align='center'>I have about 5 years of experience as a software engineer working with many technologies like: Python, C#, NodeJS, NextJS, React Native, Ruby on Rails, ...</p>
+## Liked topics
 
-<p align="center">i'm currently working at <a href="https://cadmus.com.br">C.I.A - Cadmus</a> as software engineer and i love it!</p>
-
-<br />
-<br />
+- C, GO, Rust, Zig, C3
+- Compilers
+- Interpreters
+- NLP (Natural Language Processing)
+- Games
+- Any other fun stuff in thecnology
 
 ### Useful repositories
 
+* [C JSON decoder lib](https://github.com/marcos-venicius/cson)
+* [Advent Of Code Solutions](https://github.com/marcos-venicius/aoc)
+* [Usefull libraries in C](https://github.com/marcos-venicius/clibs)
 * [Hacking Tools](https://github.com/marcos-venicius/hacking-tools)
 * [SMLF (Small Machine Learning Framework) only with python and math](https://github.com/marcos-venicius/smlf)
 * [Machine Learning Framework in C](https://github.com/marcos-venicius/ML-hello-world/)
@@ -27,3 +27,6 @@
 * [Command Shrink](https://github.com/marcos-venicius/command-shrink)
 * [GRPC Todo List in .NET](https://github.com/marcos-venicius/grpc-todo-list-cli)
 * [FUU (Frequently Used Utilities)](https://github.com/marcos-venicius/FUU)
+
+> [!WARNING]
+> Vim is the best editor ever! 😉
