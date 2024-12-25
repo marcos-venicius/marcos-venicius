@@ -5,6 +5,8 @@ _A passionate and skilled software engineer_.
 
 ## Liked topics
 
+🔥 Learning elixir
+
 - C, GO, Rust, Zig, C3
 - Compilers
 - Interpreters
