@@ -1,7 +1,7 @@
 
 <h2>Hi <img width="25" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" />, I'm Marcos</h2>
 
-_A passionate skilled software engineer_.
+_A passionate and skilled software engineer_.
 
 ## Liked topics
 
@@ -10,6 +10,7 @@ _A passionate skilled software engineer_.
 - Interpreters
 - NLP (Natural Language Processing)
 - Games
+- Languages (English, French, Hebrew, Arabic, ...........)
 - Any other fun stuff in thecnology
 
 ### Useful repositories
