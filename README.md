@@ -17,6 +17,7 @@ _A passionate and skilled software engineer_.
 
 ### Useful repositories
 
+* [A math expression compiler in C](https://github.com/marcos-venicius/MCA)
 * [C JSON decoder lib](https://github.com/marcos-venicius/cson)
 * [Advent Of Code Solutions](https://github.com/marcos-venicius/aoc)
 * [Usefull libraries in C](https://github.com/marcos-venicius/clibs)
