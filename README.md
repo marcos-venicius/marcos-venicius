@@ -12,11 +12,12 @@ _A passionate and skilled software engineer_.
 - Interpreters
 - NLP (Natural Language Processing)
 - Games
-- Languages (English, French, Hebrew, Arabic, ...........)
+- Languages (Portuguese, English, French, ...........)
 - Any other fun stuff in thecnology
 
 ### Useful repositories
 
+* [The JSON successor?](https://github.com/marcos-venicius/evalset) 🔥 In development
 * [A vim-based todo list tracking system](https://github.com/marcos-venicius/wodo)
 * [A math expression compiler in C](https://github.com/marcos-venicius/MCA)
 * [C JSON decoder lib](https://github.com/marcos-venicius/cson)
