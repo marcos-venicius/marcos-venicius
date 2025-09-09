@@ -5,9 +5,11 @@ _A passionate and skilled software engineer_.
 
 ## Liked topics
 
-🔥 Learning elixir
-
-- C, GO, Rust, Zig, C3
+- C, GO, Rust, Python, Assembly
+- Cyber Security
+- CTFs
+- Low Level
+- Reverse Engineering
 - Compilers
 - Interpreters
 - NLP (Natural Language Processing)
@@ -18,9 +20,10 @@ _A passionate and skilled software engineer_.
 ### Useful repositories
 
 * [The JSON successor?](https://github.com/marcos-venicius/evalset) 🔥 In development
+* [SAS a x86_64 compiled language written in python](https://github.com/marcos-venicius/sas-language) ⏳ In progress
 * [A vim-based todo list tracking system](https://github.com/marcos-venicius/wodo)
 * [A math expression compiler in C](https://github.com/marcos-venicius/MCA)
-* [C JSON decoder lib](https://github.com/marcos-venicius/cson)
+* [JSON parser for C](https://github.com/marcos-venicius/cson)
 * [Advent Of Code Solutions](https://github.com/marcos-venicius/aoc)
 * [Usefull libraries in C](https://github.com/marcos-venicius/clibs)
 * [Hacking Tools](https://github.com/marcos-venicius/hacking-tools)
