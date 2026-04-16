@@ -39,3 +39,5 @@ _A passionate and skilled software engineer_.
 
 > [!WARNING]
 > Vim is the best editor ever! 😉
+
+<a href="https://stardev.io/developers/marcos-venicius"><img alt="Check out marcos-venicius&apos;s profile on stardev.io" src="https://stardev.io/developers/marcos-venicius/badge/languages/global.svg" /></a>
