@@ -16,11 +16,17 @@ _A passionate and skilled software engineer_.
 
 ### Projects you may like
 
-* [Programmer's math calculator in C (recursive descent parser)](https://github.com/marcos-venicius/MCA) ✅️ Ready to use
-  - list of operators: plus, minus, divide, multiply, power, factorial, modulo, parenthesis, expression separator.
-  - we can have multi-line expressions.
-  - we can have multi expressions in a single evaluation just by separating them with ';'.
-  - nice error reporting at lexing stage (⏳ working on a better on for parsing stage).
+* [MCA - A dynamic expression-oriented toy scripting language in C](https://github.com/marcos-venicius/MCA) ✅️ Ready to use 🔥
+  - dynamically typed
+  - expression-oriented
+    - almost everything returns a value
+  - Functions, closures, anonymous functions, functions as parameters
+  - data types: unit, int, float, string, bool, map, function
+  - A standard library with builtin functions for handle strings, math, I/O, date time, type checking, data converting, etc
+  - really simple to use, intuitive syntax
+  - just one loop `while`
+  - iterators for maps
+  - a ton of usage examples
 * [CLIBs (various libraries, including a statically typed search language) for C](https://github.com/marcos-venicius/clibs) 🔥 In development
 * [The JSON successor?](https://github.com/marcos-venicius/evalset) 🔥 In development
 * [SAS a x86_64 compiled language written in python](https://github.com/marcos-venicius/sas-language) ⏳ In progress
