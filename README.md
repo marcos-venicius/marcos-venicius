@@ -16,7 +16,9 @@ _A passionate and skilled software engineer_.
 
 ### Projects you may like
 
-* [MCA - A dynamic expression-oriented toy scripting language](https://github.com/marcos-venicius/MCA) ✅️ Ready to use 🔥
+* **[MCA - A dynamic expression-oriented toy scripting language](https://github.com/marcos-venicius/MCA)** ✅️ Ready to use 🔥
+  - **That's the project I'm putting my efforts today and I'm really enjoying the process**
+  - started with raw C but migrated from scratch to GO so we automatically have some benefits (hashmaps, GO's GC, better error reporting, less (and cleaner) code, etc)
   - dynamically typed
   - expression-oriented
     - almost everything returns a value
@@ -25,6 +27,7 @@ _A passionate and skilled software engineer_.
   - A standard library with builtin functions for handle strings, math, I/O, date time, type checking, data converting, etc
   - really simple to use, intuitive syntax
   - loops like: `for-of`, `for-range` and `while` with examples
+  - An absurdly simple module system
   - a ton of usage examples
   - Already being used [here](https://github.com/marcos-venicius/aoc) 🔥
 * [CLIBs (various libraries, including a statically typed search language) for C](https://github.com/marcos-venicius/clibs) 🔥 In development
