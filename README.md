@@ -16,17 +16,17 @@ _A passionate and skilled software engineer_.
 
 ### Projects you may like
 
-* [MCA - A dynamic expression-oriented toy scripting language in C](https://github.com/marcos-venicius/MCA) ✅️ Ready to use 🔥
+* [MCA - A dynamic expression-oriented toy scripting language](https://github.com/marcos-venicius/MCA) ✅️ Ready to use 🔥
   - dynamically typed
   - expression-oriented
     - almost everything returns a value
-  - Functions, closures, anonymous functions, functions as parameters
-  - data types: unit, int, float, string, bool, map, function
+  - Functions, closures, anonymous functions, pass functions as reference
+  - data types: unit, int, float, string, bool, map, array, function
   - A standard library with builtin functions for handle strings, math, I/O, date time, type checking, data converting, etc
   - really simple to use, intuitive syntax
-  - just one loop `while`
-  - iterators for maps
+  - loops like: `for-of`, `for-range` and `while` with examples
   - a ton of usage examples
+  - Already being used [here](https://github.com/marcos-venicius/aoc) 🔥
 * [CLIBs (various libraries, including a statically typed search language) for C](https://github.com/marcos-venicius/clibs) 🔥 In development
 * [The JSON successor?](https://github.com/marcos-venicius/evalset) 🔥 In development
 * [SAS a x86_64 compiled language written in python](https://github.com/marcos-venicius/sas-language) ⏳ In progress
