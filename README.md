@@ -30,6 +30,8 @@ _A passionate and skilled software engineer_.
   - An absurdly simple module system
   - a ton of usage examples
   - Already being used [here](https://github.com/marcos-venicius/aoc) 🔥
+  - Open-Source packages ✅️
+    - [Json Library (loads and dumps)](https://github.com/marcos-venicius/mca-json-parser) ✅️
 * [CLIBs (various libraries, including a statically typed search language) for C](https://github.com/marcos-venicius/clibs) 🔥 In development
 * [The JSON successor?](https://github.com/marcos-venicius/evalset) 🔥 In development
 * [SAS a x86_64 compiled language written in python](https://github.com/marcos-venicius/sas-language) ⏳ In progress
