@@ -3,6 +3,8 @@
 
 _A passionate and skilled software engineer_.
 
+- Veja também meu app de leitura bíblica: https://eujali.com.br/sobre
+
 ## Liked topics
 
 - Compilers 🔥 Love this topic
