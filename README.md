@@ -18,6 +18,7 @@ _A passionate and skilled software engineer_.
 
 ### Projects you may like
 
+* [Read a Markdown file without opening an editor or a browser tab. mark <file> gives you a window with proper typography, highlighted code and live reload, pdf export, etc](https://github.com/marcos-venicius/mark) ✅️ Ready to use 🔥
 * **[MCA - A dynamic expression-oriented toy scripting language](https://github.com/marcos-venicius/MCA)** ✅️ Ready to use 🔥
   - **That's the project I'm putting my efforts today and I'm really enjoying the process**
   - started with raw C but migrated from scratch to GO so we automatically have some benefits (hashmaps, GO's GC, better error reporting, less (and cleaner) code, etc)
