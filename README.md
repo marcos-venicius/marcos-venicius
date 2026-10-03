@@ -3,9 +3,10 @@
 
 _A passionate and skilled software engineer_.
 
-- Veja também meu app de leitura bíblica: https://eujali.com.br/sobre
+- Veja também meu app de leitura bíblica: https://eujali.com.br/sobre ✅️ Ready to use 🔥
 - Jogo de caça de pássaros 3D 100% offline https://github.com/marcos-venicius/birdkiller
-- Leia markdown com estilo em 5 temas diferentes e com funcionalidades essenciais como exportar, pesquisa, table of content, navegação, etc https://github.com/marcos-venicius/mark
+- Leia markdown com estilo em 5 temas diferentes e com funcionalidades essenciais como exportar, pesquisa, table of content, navegação, etc https://github.com/marcos-venicius/mark ✅️ Ready to use 🔥
+- Your books, on your own shelf. https://github.com/marcos-venicius/oikotheke ✅️ Ready to use 🔥
 
 ## Liked topics
 
